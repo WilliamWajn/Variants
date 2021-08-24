@@ -1,1 +1,2 @@
-first observed in Kent. 
+First observed in Kent. 
+The important mutataion is N501Y.
